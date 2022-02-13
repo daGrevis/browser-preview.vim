@@ -2,7 +2,7 @@
   "name": "browser-preview.vim",
   "dependencies": {
     "convert-hrtime": "^3.0.0",
-    "follow-redirects": "^1.11.0",
+    "follow-redirects": "^1.14.8",
     "koa": "^2.11.0",
     "koa-send": "^5.0.0",
     "lodash": "^4.17.15",
